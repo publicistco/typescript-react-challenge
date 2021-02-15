@@ -1,0 +1,300 @@
+{
+  "welcome": [
+    {
+      "type": "header1",
+      "nodes": [
+        {
+          "type": "text",
+          "text": "Welcome"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "nodes": [
+        {
+          "type": "text",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id nibh tortor id aliquet lectus proin nibh nisl. Odio euismod lacinia at quis risus sed. Curabitur vitae nunc sed velit dignissim. Pretium nibh ipsum consequat nisl vel. Lectus magna fringilla urna porttitor rhoncus dolor purus non. Maecenas accumsan lacus vel facilisis volutpat est velit egestas. Lectus arcu bibendum at varius vel pharetra vel. Aliquam malesuada bibendum arcu vitae elementum curabitur. Arcu bibendum at varius vel pharetra vel turpis nunc eget."
+        }
+      ]
+    }
+  ],
+
+  "blog_post": [
+    {
+      "type": "header1",
+      "nodes": [
+        {
+          "type": "text",
+          "text": "The Future Of Work is Freelancing. Why Should You Make The Switch Now?"
+        }
+      ]
+    },
+    {
+      "type": "header3",
+      "nodes": [
+        {
+          "type": "text",
+          "text": "Freelancing used to be seen as a side gig while in between jobs, a filler while struggling to navigate the job market. But freelancing is moving towards the solution to merging the gap for talented professionals between personal life and professional endeavors."
+        }
+      ]
+    },
+    {
+      "type": "header3",
+      "nodes": [
+        {
+          "type": "text",
+          "text": "To aspiring and or current freelancers..."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "nodes": [
+        {
+          "type": "hyperlink",
+          "attributes": {
+            "href": "https://www.fastcompany.com/90411808/35-of-the-u-s-workforce-is-now-freelancing-10-million-more-than-5-years-ago"
+          },
+          "nodes": [
+            {
+              "type": "text",
+              "text": "According to Fast Company"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", freelancers comprise 35% of the U.S. workforce, and freelance income accounts for 5% of America's GDP. Forbes predicts that if the freelance market continues to grow at its current rate, 50% of the workforce will be made up of freelancers by 2027. And those are the stats before COVID-19."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "nodes": [
+        {
+          "type": "text",
+          "text": "Thanks to COVID-19, the reality of remote work has become the new normal, making it even more convenient for freelance work. With workers being forced to stay home and create content from the comfort of their own couches, now is truly the time to branch out and take on individual projects. It has never been easier to partner up with a client based in London, to produce brilliant work from your apartment in New York City, and then to shoot it on over across the Atlantic Ocean via Slack."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "nodes": [
+        {
+          "type": "text",
+          "text": "Our world's professional culture has changed immensely over the years as well. Especially in the media and marketing industry, the classic Don Draper suit and tie look from Mad Men is a thought of the past. Casual Fridays have transitioned into a more permanent lifestyle, as well as working from home. The transition to freelance might just be the change you desparately need with the benefits you've been looking for."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "attributes": {
+        "src": "https://images.ctfassets.net/8103q4izyy1y/d03UjYQSC7INinUysRm7R/d446c2bc5f12fe076cca737079d0d9db/slack-imgs.com.jpeg",
+        "alt": "Neon sign on a brick wall that says \"This is the sign you've been looking for\""
+      }
+    }
+  ],
+
+  "kitchen_sink": [
+    {
+      "type": "header1",
+      "nodes": [
+        {
+          "type": "text",
+          "text": "All the nodes!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "nodes": [
+        {
+          "type": "text",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ]
+    },
+    {
+      "type": "header3",
+      "nodes": [
+        {
+          "type": "text",
+          "text": "Header with"
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "Line Breaks"
+        }
+      ]
+    },
+    {
+      "type": "bullet_list",
+      "nodes": [
+        {
+          "type": "list_item",
+          "nodes": [
+            {
+              "type": "image",
+              "attributes": {
+                "src": "http://via.placeholder.com/300x260",
+                "alt": "Placeholder #1",
+                "width": "300px"
+              }
+            },
+            {
+              "type": "image",
+              "attributes": {
+                "src": "http://via.placeholder.com/300x260",
+                "alt": "Placeholder #2",
+                "width": "300px"
+              }
+            },
+            {
+              "type": "image",
+              "attributes": {
+                "src": "http://via.placeholder.com/300x260",
+                "alt": "Placeholder #3",
+                "width": "300px"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "nodes": [
+        {
+          "type": "text",
+          "text": "Volutpat lacus laoreet non curabitur. "
+        },
+        {
+          "type": "bold",
+          "text": "At elementum eu facilisis sed odio morbi quis. "
+        },
+        {
+          "type": "underline",
+          "text": "Amet venenatis urna cursus eget. Ipsum consequat nisl vel pretium lectus quam id."
+        }
+      ]
+    },
+    {
+      "type": "numbered_list",
+      "nodes": [
+        {
+          "type": "list_item",
+          "nodes": [
+            {
+              "type": "hyperlink",
+              "attributes": {
+                "href": "https://leaddev.com/architecture-microservices/conversations-you-need-have-moving-monoliths-microservices"
+              },
+              "nodes": [
+                {
+                  "type": "bold",
+                  "text": "Conversations you need to have before moving from monoliths to microservices"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " by "
+            },
+            {
+              "type": "break"
+            },
+            {
+              "type": "hyperlink",
+              "attributes": {
+                "href": "https://twitter.com/michaelswinslow"
+              },
+              "nodes": [
+                {
+                  "type": "italic",
+                  "text": "Michael Winslow"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list_item",
+          "nodes": [
+            {
+              "type": "hyperlink",
+              "attributes": {
+                "href": "https://leaddev.com/scaling-software-systems/learnings-managing-complexity-scale"
+              },
+              "nodes": [
+                {
+                  "type": "bold",
+                  "text": "Learnings from 'Managing complexity at scale'"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " by "
+            },
+            {
+              "type": "break"
+            },
+            {
+              "type": "hyperlink",
+              "attributes": {
+                "href": "https://twitter.com/failesatlife"
+              },
+              "nodes": [
+                {
+                  "type": "italic",
+                  "text": "Ellie Spencer-Failes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list_item",
+          "nodes": [
+            {
+              "type": "hyperlink",
+              "attributes": {
+                "href": "https://leaddev.com/continuous-integration-delivery/cheerful-deployments-cicd-pipelines"
+              },
+              "nodes": [
+                {
+                  "type": "bold",
+                  "text": "Cheerful deployments with CI/CD pipelines"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " by "
+            },
+            {
+              "type": "break"
+            },
+            {
+              "type": "hyperlink",
+              "attributes": {
+                "href": "https://twitter.com/anbreensh"
+              },
+              "nodes": [
+                {
+                  "type": "italic",
+                  "text": "Ambreen Sheikh"
+                }
+              ]
+            }
+          ]
+
+        }
+      ]
+    }
+  ]
+}
