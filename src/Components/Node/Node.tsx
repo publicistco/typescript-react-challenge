@@ -1,5 +1,5 @@
 import React from "react";
-import { NodeType } from "../types";
+import { NodeType } from "../../types";
 
 type Props = {
   node: NodeType;

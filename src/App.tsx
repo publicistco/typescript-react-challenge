@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 
-import { TextSection } from "./TextSection";
+import { TextSection } from "./Components/TextSection";
+import Card from "./Components/Card";
 
 function App() {
   const [slideToShow, setSlideToShow] = useState(1);
@@ -17,9 +18,21 @@ function App() {
 
   return (
     <React.Fragment>
-      {slideToShow === 1 && <TextSection id="welcome" />}
-      {slideToShow === 2 && <TextSection id="blog_post" />}
-      {slideToShow === 3 && <TextSection id="kitchen_sink" />}
+      {slideToShow === 1 && (
+        <Card>
+          <TextSection id="welcome" />
+        </Card>
+      )}
+      {slideToShow === 2 && (
+        <Card>
+          <TextSection id="blog_post" />
+        </Card>
+      )}
+      {slideToShow === 3 && (
+        <Card>
+          <TextSection id="kitchen_sink" />
+        </Card>
+      )}
     </React.Fragment>
   );
 }
